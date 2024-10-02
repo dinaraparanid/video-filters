@@ -11,7 +11,7 @@ def flip_horizontal(image):
         The flipped image.
 
     Example:
-        flipped_image = flip_horizontal(image)
+        ["https://ibb.co/JB14ZH3"]
     """
     flipped_image = cv2.flip(image, 1)  
     return flipped_image 
