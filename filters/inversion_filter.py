@@ -17,4 +17,4 @@ def inversion(image):
         https://pyimagesearch.com/wp-content/uploads/2021/01/opencv_bitwise_not.png
     """
     inversed_image = cv2.bitwise_not(image)  
-    return finversed_image
+    return inversed_image
